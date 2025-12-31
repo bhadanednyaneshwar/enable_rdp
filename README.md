@@ -1,2 +1,7 @@
 # enable_rdp
-enable linux remote desktop from terminal
+Enable Linux remote desktop from terminal
+
+## Steps:
+  - `echo pwd`
+  - `chmod +x enable.sh` 
+  - `./enable.sh`
